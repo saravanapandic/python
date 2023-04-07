@@ -29,4 +29,3 @@ t.right(45)
 t.circle(70, 90)
 t.hideturtle()
 turtle.done()
-a=10
