@@ -4,4 +4,5 @@ def generatore_odd(max):
         yield n
         n+=2
 num=generatore_odd(10)
-print(next(num))
+for i in range(5):
+    print(next(num))
